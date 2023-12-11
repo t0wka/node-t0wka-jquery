@@ -1,0 +1,22 @@
+{
+  "name": "node-t0wka-jquery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t0wka/node-t0wka-jquery.git"
+  },
+  "author": "t0wka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t0wka/node-t0wka-jquery/issues"
+  },
+  "homepage": "https://github.com/t0wka/node-t0wka-jquery#readme",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
